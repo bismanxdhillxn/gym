@@ -123,7 +123,7 @@ export default function Payment() {
                                                     </>
                                                 ))}
                                                 <li class="list-group-item d-flex justify-content-between align-items-center">
-                                                    Tax
+                                                    Delivery
                                                     <span> ₹{178}</span>
                                                 </li>
                                                 <li class="list-group-item d-flex justify-content-between align-items-center fw-bold">
